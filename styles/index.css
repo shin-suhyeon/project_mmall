@@ -1,0 +1,237 @@
+.header_nav {background-color: #222222; height: 80px;}
+.header_nav header{ display: flex;}
+.header_nav header h1{margin-left: 160px; margin-right: 425px; margin-top: 22px;}
+.header_nav header h1 img{}
+.header_nav header nav{margin-right: 480px; margin-top: 28px;}
+.header_nav header nav a{color: white; margin-right: 23px;}
+.header_nav header nav .border{color: white; margin-right: 23px; border-bottom: 1px solid white;}
+.header_nav header .nav_icons{margin-top: 28px;}
+.header_nav header .nav_icons a{margin-right: 3px;}
+.header_nav header .nav_icons a img{}
+/* ======================================================================================bg1============================================================================================= */
+main .bg1{background-image: url(../img/bg1.jpg); height: 772px;}
+/* ======================================================================================bg2============================================================================================= */
+main .bg2{margin-top: 100px; margin-left: 160px;}
+main .bg2 h1{font-size: 2.25rem; margin-bottom: 5px;}
+main .bg2 .see_all{margin-left: 1468px; border-bottom: 1px solid #787878; color: #787878;}
+main .bg2 .bg2_all {display: flex; margin-top: 11px;}
+main .bg2 .bg2_all .bg2_1{margin-right: 12px;}
+main .bg2 .bg2_all .bg2_1 h1{}
+main .bg2 .bg2_all .bg2_1 h1 img{}
+main .bg2 .bg2_all .bg2_1 h2{font-size: 0.938rem; color: #787878; margin-bottom: 5px;}
+main .bg2 .bg2_all .bg2_1 h3{font-weight: 500; margin-bottom: 4px;}
+main .bg2 .bg2_all .bg2_1 p{}
+main .bg2 .bg2_all .bg2_2{margin-right: 12px;}
+main .bg2 .bg2_all .bg2_2 h1{}
+main .bg2 .bg2_all .bg2_2 h1 img{}
+main .bg2 .bg2_all .bg2_2 h2{font-size: 0.938rem; color: #787878; margin-bottom: 5px;}
+main .bg2 .bg2_all .bg2_2 h3{font-weight: 500; margin-bottom: 4px;}
+main .bg2 .bg2_all .bg2_2 p{}
+main .bg2 .bg2_all .bg2_3{margin-right: 12px;}
+main .bg2 .bg2_all .bg2_3 h1{}
+main .bg2 .bg2_all .bg2_3 h1 img{}
+main .bg2 .bg2_all .bg2_3 h2{font-size: 0.938rem; color: #787878; margin-bottom: 5px;}
+main .bg2 .bg2_all .bg2_3 h3{font-weight: 500; margin-bottom: 4px;}
+main .bg2 .bg2_all .bg2_3 p{}
+main .bg2 .bg2_all .bg2_3{}
+main .bg2 .bg2_all .bg2_4 h1{}
+main .bg2 .bg2_all .bg2_4 h1 img{}
+main .bg2 .bg2_all .bg2_4 h2{font-size: 0.938rem; color: #787878; margin-bottom: 5px;}
+main .bg2 .bg2_all .bg2_4 h3{font-weight: 500; margin-bottom: 4px;}
+main .bg2 .bg2_all .bg2_4 p{}
+/* ======================================================================================bg3============================================================================================= */
+main .bg3{margin-top: 100px; margin-left: 160px;}
+main .bg3 h1{font-size: 1.5rem; margin-bottom: 5px; line-height: 1.5;}
+main .bg3 h1 span{font-size: 2.25rem;}
+main .bg3 .see_all{margin-left: 1468px; border-bottom: 1px solid #787878; color: #787878;}
+main .bg3 .bg3_all {display: flex; margin-top: 11px;}
+main .bg3 .bg3_all .bg3_1{margin-right: 12px;}
+main .bg3 .bg3_all .bg3_1 h1{}
+main .bg3 .bg3_all .bg3_1 h1 img{}
+main .bg3 .bg3_all .bg3_1 h2{font-size: 0.938rem; color: #787878; margin-bottom: 5px;}
+main .bg3 .bg3_all .bg3_1 h3{font-weight: 500; margin-bottom: 4px;}
+main .bg3 .bg3_all .bg3_1 p{}
+main .bg3 .bg3_all .bg3_2{margin-right: 12px;}
+main .bg3 .bg3_all .bg3_2 h1{}
+main .bg3 .bg3_all .bg3_2 h1 img{}
+main .bg3 .bg3_all .bg3_2 h2{font-size: 0.938rem; color: #787878; margin-bottom: 5px;}
+main .bg3 .bg3_all .bg3_2 h3{font-weight: 500; margin-bottom: 4px;}
+main .bg3 .bg3_all .bg3_2 p{}
+main .bg3 .bg3_all .bg3_3{margin-right: 12px;}
+main .bg3 .bg3_all .bg3_3 h1{}
+main .bg3 .bg3_all .bg3_3 h1 img{}
+main .bg3 .bg3_all .bg3_3 h2{font-size: 0.938rem; color: #787878; margin-bottom: 5px;}
+main .bg3 .bg3_all .bg3_3 h3{font-weight: 500; margin-bottom: 4px;}
+main .bg3 .bg3_all .bg3_3 p{}
+main .bg3 .bg3_all .bg3_3{}
+main .bg3 .bg3_all .bg3_4 h1{}
+main .bg3 .bg3_all .bg3_4 h1 img{}
+main .bg3 .bg3_all .bg3_4 h2{font-size: 0.938rem; color: #787878; margin-bottom: 5px;}
+main .bg3 .bg3_all .bg3_4 h3{font-weight: 500; margin-bottom: 4px;}
+main .bg3 .bg3_all .bg3_4 p{ margin-bottom: 117px;}
+/* =====================================================================================bg4============================================================================================= */
+main .bg4 {background-color: #222222; display: flex; padding-top: 122px; padding-left: 177px;}
+main .bg4 .left{}
+main .bg4 .left h1{color: #FFD978; font-weight: 500; font-size: 2rem; margin-bottom: 10px;}
+main .bg4 .left h2{color: white; font-size: 2.5rem; margin-right: 156px;margin-bottom: 20px;}
+main .bg4 .left h3{color: white; font-size: 3.438rem;}
+main .bg4 .left a{color: white; margin-top: 300px; display: inline-block; border-bottom: 1px solid white; padding-bottom: 6px;} 
+main .bg4 .right{}
+main .bg4 .right a{margin-right: 23px;}
+main .bg4 .right a img{padding-bottom: 150px;}
+/* =====================================================================================bg5============================================================================================= */
+main .bg5{margin-top: 106px;}
+main .bg5 > h1{font-size: 1.5rem; font-weight: 500; color: red; text-align: center; margin-bottom: 7px;}
+main .bg5 > h2{font-size: 2.25rem; font-weight: 500; text-align: center; margin-bottom: 67px;}
+main .bg5_all{display: flex; margin-left: 490px;}
+main .bg5 .bg5_all .left{}
+main .bg5 .bg5_all .left h1{}
+main .bg5 .bg5_all .left h1 img{}
+main .bg5 .bg5_all .right{margin-left: 40px;}
+main .bg5 .bg5_all .right > h1{margin-top: 43px; margin-bottom: 7px;}
+main .bg5 .bg5_all .right > h2{font-size: 1.375rem; font-weight: 500; margin-bottom: 10px;}
+main .bg5 .bg5_all .right > h3{ margin-bottom: 35px; font-size: 1.375rem; }
+main .bg5 .bg5_all .right >p{color: #686868;line-height: 25px;}
+main .bg5 .bg5_all .right >a{color: #505050; margin-top: 74px; display: inline-block; border-bottom: 1px solid #505050; padding-bottom: 5px;}
+main .bg5 .bg5_all .right h4{margin-top: 45px;}
+main .bg5 .bg5_all.right h4 img{}
+main .bg5> p{margin-bottom: 163px; text-align: center; margin-top: 65px;}
+main .bg5 p img{}
+/* =====================================================================================bg6============================================================================================= */
+main .bg6 {margin-bottom: 171px;}
+main .bg6 >h1 {font-size: 2.25rem; text-align: center; font-weight: 500; margin-bottom: 45px;}
+main .bg6 .bg6_all{display: flex;}
+main .bg6 .bg6_all .left{ margin-left: 321px;}
+main .bg6 .bg6_all .left h1{}
+main .bg6 .bg6_all .left h1 img{}
+main .bg6 .bg6_all .right{}
+main .bg6 .bg6_all .right .right_top{display: flex;}
+main .bg6 .bg6_all .right .right_top .right_top_left{}
+main .bg6 .bg6_all .right .right_top .right_top_left p{}
+main .bg6 .bg6_all .right .right_top .right_top_left p img{}
+main .bg6 .bg6_all .right .right_top .right_top_right{background-color: #FCFCFC; width: 370px; height: 300px;}
+main .bg6 .bg6_all .right .right_top .right_top_right h1{margin-top: 70px; margin-bottom: 10px;  margin-left: 33px;}
+main .bg6 .bg6_all .right .right_top .right_top_right h1 span{}
+main .bg6 .bg6_all .right .right_top .right_top_right h1 em{}
+main .bg6 .bg6_all .right .right_top .right_top_right h2{font-size: 1.063rem; font-weight: 500; margin-bottom: 11px;  margin-left: 33px;}
+main .bg6 .bg6_all .right .right_top .right_top_right h3{margin-bottom: 10px;  margin-left: 33px;}
+main .bg6 .bg6_all .right .right_top .right_top_right p{font-size: 0.875rem;margin-bottom: 60px;  margin-left: 33px; color: #656565; background-color: #FFEFEF; width: 121px; padding: 4px;}
+main .bg6 .bg6_all .right .right_top .right_top_right a{font-size: 0.75rem; display: inline-block; border-bottom: 1px solid #707070; color: #707070;  margin-left: 33px; padding-bottom: 3px;}
+main .bg6 .bg6_all .right .right_btn{display: flex;}
+main .bg6 .bg6_all .right .right_btn .right_btm_left{background-color: #FCFCFC;width: 370px; height: 300px; text-align: right;}
+main .bg6 .bg6_all .right .right_btn .right_btm_left h1{margin-bottom: 10px; margin-top: 70px; margin-right: 33px;} 
+main .bg6 .bg6_all .right .right_btn .right_btm_left h1 span{}
+main .bg6 .bg6_all .right .right_btn .right_btm_left h1 em{}
+main .bg6 .bg6_all .right .right_btn .right_btm_left h2{font-size: 1.063rem; font-weight: 500; margin-bottom: 11px; margin-right: 33px;}
+main .bg6 .bg6_all .right .right_btn .right_btm_left h3{ margin-right: 33px;margin-bottom: 10px;}
+main .bg6 .bg6_all .right .right_btn .right_btm_left p{font-size: 0.875rem; margin-bottom: 60px; color: #656565; background-color: #FFEFEF; width: 121px; padding: 4px; margin-left: 217px;}
+main .bg6 .bg6_all .right .right_btn .right_btm_left a{font-size: 0.75rem;   margin-right: 33px;font-size: 0.75rem; display: inline-block; border-bottom: 1px solid #707070; color: #707070; padding-bottom: 3px;}
+main .bg6 .bg6_all .right .right_btn .right_btm_right{}
+main .bg6 .bg6_all .right .right_btn .right_btm_right p{}
+main .bg6 .bg6_all .right .right_btn .right_btm_right p img{}
+/* =====================================================================================bg7============================================================================================= */
+main .bg7{background-color: #222; padding-top: 92px; color: white; padding-bottom: 185px;}
+main .bg7 h1{font-size: 1.375rem; text-align: center; color: white; margin-bottom: 10px;}
+main .bg7 h2{font-size: 2.375rem; font-weight: 500; margin-bottom: 85px; text-align: center;}
+main .bg7 .img{margin-left: 167px;}
+main .bg7 .img a{margin-right: 35px;}
+/* =====================================================================================bg8============================================================================================= */
+/* 첫번째 */
+main .bg8{background-color: #222;}
+main .bg8 >h1{color: white; font-size: 1.5rem; text-align: center; margin-bottom: 10px;}
+main .bg8 >h2{color: white; font-size: 2.25rem; font-weight: 500; text-align: center; margin-bottom: 85px;}
+main .bg8 .bg8_all{display: flex;}
+main .bg8 .bg8_all .bg8_1{margin-left: 167px; margin-right: 35px;}
+main .bg8 .bg8_all .bg8_1 h1{}
+main .bg8 .bg8_all .bg8_1 h1 img{}
+main .bg8 .bg8_all .bg8_1 .box{background-color: white;}
+main .bg8 .bg8_all .bg8_1 .box .box_top{display: flex; padding-top: 30px; margin-left: 35px;}
+main .bg8 .bg8_all .bg8_1 .box .box_top h2{font-weight: 500; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_1 .box .box_top h2 img{margin-bottom: 25px;}
+main .bg8 .bg8_all .bg8_1 .box .box_top .box_top_detail{margin-left: 20px;}
+main .bg8 .bg8_all .bg8_1 .box .box_top .box_top_detail h1{font-size: 0.938rem; color: #7C7C7C; margin-top: 10px; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_1 .box .box_top .box_top_detail h2{}
+main .bg8 .bg8_all .bg8_1 .box .box_top .box_top_detail p{}
+main .bg8 .bg8_all .bg8_1 .box .box_btm{display: flex; margin-left: 35px;}
+main .bg8 .bg8_all .bg8_1 .box .box_btm h2{font-weight: 500; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_1 .box .box_btm h2 img{}
+main .bg8 .bg8_all .bg8_1 .box .box_btm .box_top_detail{margin-left: 20px;}
+main .bg8 .bg8_all .bg8_1 .box .box_btm .box_top_detail h1{font-size: 0.938rem; color: #7C7C7C; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_1 .box .box_btm .box_top_detail h2{}
+main .bg8 .bg8_all .bg8_1 .box .box_btm .box_top_detail p{}
+main .bg8 .bg8_all .bg8_1 .box a{}
+/* 두번째 */
+main .bg8{}
+main .bg8 h1{}
+main .bg8 h2{}
+main .bg8 .bg8_all{}
+main .bg8 .bg8_all .bg8_2{margin-right: 35px;}
+main .bg8 .bg8_all .bg8_2 h1{}
+main .bg8 .bg8_all .bg8_2 h1 img{}
+main .bg8 .bg8_all .bg8_2 .box{background-color: white;}
+main .bg8 .bg8_all .bg8_2 .box .box_top{display: flex; padding-top: 30px; margin-left: 35px;}
+main .bg8 .bg8_all .bg8_2 .box .box_top h2{font-weight: 500; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_2 .box .box_top h2 img{margin-bottom: 25px;}
+main .bg8 .bg8_all .bg8_2 .box .box_top .box_top_detail{margin-left: 20px;}
+main .bg8 .bg8_all .bg8_2 .box .box_top .box_top_detail h1{font-size: 0.938rem; color: #7C7C7C; margin-top: 10px; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_2 .box .box_top .box_top_detail h2{}
+main .bg8 .bg8_all .bg8_2 .box .box_top .box_top_detail p{}
+main .bg8 .bg8_all .bg8_2 .box .box_btm{display: flex; margin-left: 35px;}
+main .bg8 .bg8_all .bg8_2 .box .box_btm h2{font-weight: 500; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_2 .box .box_btm h2 img{}
+main .bg8 .bg8_all .bg8_2 .box .box_btm h2 img{}
+main .bg8 .bg8_all .bg8_2 .box .box_btm .box_top_detail{margin-left: 20px;}
+main .bg8 .bg8_all .bg8_2 .box .box_btm .box_top_detail h1{font-size: 0.938rem; color: #7C7C7C; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_2 .box .box_btm .box_top_detail h2{}
+main .bg8 .bg8_all .bg8_2 .box .box_btm .box_top_detail p{}
+main .bg8 .bg8_all .bg8_2 .box a{}
+/* 세번째 */
+main .bg8{}
+main .bg8 h1{}
+main .bg8 h2{}
+main .bg8 .bg8_all{}
+main .bg8 .bg8_all .bg8_3{margin-right: 35px;}
+main .bg8 .bg8_all .bg8_3 h1{}
+main .bg8 .bg8_all .bg8_3 h1 img{}
+main .bg8 .bg8_all .bg8_3 .box{background-color: white;}
+main .bg8 .bg8_all .bg8_3 .box .box_top{display: flex; padding-top: 30px; margin-left: 35px;}
+main .bg8 .bg8_all .bg8_3 .box .box_top h2{font-weight: 500; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_3 .box .box_top h2 img{margin-bottom: 25px;}
+main .bg8 .bg8_all .bg8_3 .box .box_top .box_top_detail{margin-left: 20px;}
+main .bg8 .bg8_all .bg8_3 .box .box_top .box_top_detail h1{font-size: 0.938rem; color: #7C7C7C; margin-top: 10px; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_3 .box .box_top .box_top_detail h2{}
+main .bg8 .bg8_all .bg8_3 .box .box_top .box_top_detail p{}
+main .bg8 .bg8_all .bg8_3 .box .box_btm{display: flex; margin-left: 35px;}
+main .bg8 .bg8_all .bg8_3 .box .box_btm h2{font-weight: 500; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_3 .box .box_btm h2 img{}
+main .bg8 .bg8_all .bg8_3 .box .box_btm h2 img{}
+main .bg8 .bg8_all .bg8_3 .box .box_btm .box_top_detail{margin-left: 20px;}
+main .bg8 .bg8_all .bg8_3 .box .box_btm .box_top_detail h1{font-size: 0.938rem; color: #7C7C7C; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_3 .box .box_btm .box_top_detail h2{}
+main .bg8 .bg8_all .bg8_3 .box .box_btm .box_top_detail p{}
+main .bg8 .bg8_all .bg8_3 .box a{}
+/* 네번째 */
+main .bg8{}
+main .bg8 h1{}
+main .bg8 h2{}
+main .bg8 .bg8_all{}
+main .bg8 .bg8_all .bg8_4{}
+main .bg8 .bg8_all .bg8_4 h1{}
+main .bg8 .bg8_all .bg8_4 h1 img{}
+main .bg8 .bg8_all .bg8_4 .box{background-color: white;}
+main .bg8 .bg8_all .bg8_4 .box .box_top{display: flex; padding-top: 30px; margin-left: 35px;}
+main .bg8 .bg8_all .bg8_4 .box .box_top h2{font-weight: 500; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_4 .box .box_top h2 img{margin-bottom: 25px;}
+main .bg8 .bg8_all .bg8_4 .box .box_top .box_top_detail{margin-left: 20px;}
+main .bg8 .bg8_all .bg8_4 .box .box_top .box_top_detail h1{font-size: 0.938rem; color: #7C7C7C; margin-top: 10px; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_4 .box .box_top .box_top_detail h2{}
+main .bg8 .bg8_all .bg8_4 .box .box_top .box_top_detail p{}
+main .bg8 .bg8_all .bg8_4 .box .box_btm{display: flex; margin-left: 35px;}
+main .bg8 .bg8_all .bg8_4 .box .box_btm h2{font-weight: 500; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_4 .box .box_btm h2 img{}
+main .bg8 .bg8_all .bg8_4 .box .box_btm h2 img{}
+main .bg8 .bg8_all .bg8_4 .box .box_btm .box_top_detail{margin-left: 20px;}
+main .bg8 .bg8_all .bg8_4 .box .box_btm .box_top_detail h1{font-size: 0.938rem; color: #7C7C7C; margin-bottom: 5px;}
+main .bg8 .bg8_all .bg8_4 .box .box_btm .box_top_detail h2{}
+main .bg8 .bg8_all .bg8_4 .box .box_btm .box_top_detail p{}
+main .bg8 .bg8_all .bg8_4 .box a{}
